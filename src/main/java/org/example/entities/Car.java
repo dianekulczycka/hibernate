@@ -11,7 +11,7 @@ import org.example.enums.CarType;
 @AllArgsConstructor
 
 @Entity
-@Table(name="cars")
+@Table(name = "cars")
 
 public class Car {
     @Id
